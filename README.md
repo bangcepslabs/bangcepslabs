@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/bangcepslabs/docnote">
-    <img src="https://raw.githubusercontent.com/bangcepslabs/docnote/main/Design/docnote-create-refined-preview.png" alt="DocNote preview" width="100%" />
-  </a>
-</p>
-
 <h1 align="center">정병호</h1>
 
 <p align="center">
@@ -50,8 +44,6 @@
 **Data** — MSSQL · MyBatis  
 **Frontend** — JavaScript · Blazor · Flutter  
 **Operations** — IIS · Tomcat · Docker · Git
-
-<br />
 
 <p align="center">
   <a href="https://github.com/bangcepslabs?tab=repositories">Explore all repositories →</a>
