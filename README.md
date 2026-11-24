@@ -1,21 +1,56 @@
-<h1 align="center">정병호</h1>
 
-<p align="center">
-  <strong>Backend & Web Developer</strong><br />
-  사용자에게 바로 닿는 기능과 안정적인 운영 흐름을 만든다.
-</p>
+<div align="center">
 
-<p align="center">
-  <code>ASP.NET</code> · <code>Java Spring</code> · <code>Python</code> · <code>Flutter</code> · <code>MSSQL</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101820,100:164E63&height=190&text=bangceps.labs&fontSize=52&fontColor=5EEAD4&fontAlignY=40&desc=Backend%20%2F%20Web%20%2F%20Infrastructure&descSize=17&descAlignY=65" width="100%"/>
 
-## Stack
+<br/>
 
-**Backend** — ASP.NET WebForms · Java Spring · Python  
-**Data** — MSSQL · MyBatis  
-**Frontend** — JavaScript · Blazor · Flutter  
-**Operations** — IIS · Tomcat · Docker · Git
+**Building reliable systems and useful software.**
 
-<p align="center">
-  <a href="https://github.com/bangcepslabs?tab=repositories">Explore all repositories →</a>
-</p>
+안정적인 시스템과 실용적인 서비스를 개발합니다.
+
+<br/>
+
+## Tech Stack
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,dart&theme=dark"/>
+
+#### Frameworks
+
+<img src="https://skillicons.dev/icons?i=dotnet,spring,flutter,flask&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_WebForms-512BD4?style=flat-square"/>
+
+#### Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,windows&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/MyBatis-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+
+<br/>
+
+## Currently Exploring
+
+`AI & LLM` · `Automation`
+
+<br/>
+
+<a href="https://bangceps.tistory.com/">
+  <img src="https://img.shields.io/badge/DEV_BLOG-101820?style=for-the-badge&logo=tistory&logoColor=5EEAD4"/>
+</a>
+
+<br/><br/>
+
+<sub>BUILD · SOLVE · EVOLVE</sub>
+
+</div>
