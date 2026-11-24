@@ -45,8 +45,16 @@
 
 <br/>
 
-<a href="https://bangceps.tistory.com/">
-  <img src="https://img.shields.io/badge/DEV_BLOG-101820?style=for-the-badge&logo=tistory&logoColor=5EEAD4"/>
+## Currently Exploring
+
+`AI & LLM` · `Automation`
+
+<br/>
+
+### Contact
+
+<a href="mailto:bum2432@gmail.com">
+  <img src="https://img.shields.io/badge/bum2432%40gmail.com-101820?style=for-the-badge&logo=gmail&logoColor=5EEAD4"/>
 </a>
 
 <br/><br/>
