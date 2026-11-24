@@ -45,12 +45,6 @@
 
 <br/>
 
-## Currently Exploring
-
-`AI & LLM` · `Automation`
-
-<br/>
-
 ### Contact
 
 <a href="mailto:bum2432@gmail.com">
